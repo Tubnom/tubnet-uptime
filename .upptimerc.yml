@@ -1,4 +1,3 @@
-# Change these first
 owner: Tubnom
 repo: tubnet-uptime
 
@@ -33,7 +32,7 @@ sites:
     expectedStatusCodes:
       - 403
     
-  - name: Content Delivery Network (S3 Bucket)
+  - name: CDN (S3 Bucket)
     url: https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip
     
   - name: TubNet Rewards (Frontend)
@@ -57,14 +56,15 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: dark
   baseUrl: /tubnet-uptime
   logoUrl: https://avatars.githubusercontent.com/u/102187236?s=200&v=4
-  name: Tubnom
+  name: TubNet Community
   introTitle: "TubNet Status"
   introMessage: "This website tracks TubNet's servers and checks when they are down."
   navbar:
     - title: Status
-      href: /
+      href: /tubnet-uptime
     - title: Tubble
       href: https://forums.tubnet.gg/
     - title: Discord

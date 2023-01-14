@@ -3,17 +3,46 @@ owner: Tubnom
 repo: tubnet-uptime
 
 sites:
-  - name: Tubble
-    url: https://forums.tubnet.gg
+  - name: TubNet Java (prod)
+    url: prod.tubnet.gg
+    check: "tcp-ping"
+    port: 25565
+    
+  - name: TubNet Java (lunar)
+    url: lunar.tubnet.gg
+    check: "tcp-ping"
+    port: 25565
+    
+  - name: TubNet Java (thru)
+    url: thru.tubnet.gg
+    check: "tcp-ping"
+    port: 25565
+    
+  - name: TubNet Java (mc)
+    url: mc.tubnet.gg
+    check: "tcp-ping"
+    port: 25565
+    
+  - name: TubNet Events
+    url: 5.161.155.38
+    check: "tcp-ping"
+    port: 25565
+    
+  - name: TubNet Forums
+    url: https://forums.tubnet.gg/
+    expectedStatusCodes:
+      - 403
     
   - name: Content Delivery Network (S3 Bucket)
-    url: https://cdn.tubnet.gg
+    url: https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip
     
   - name: TubNet Rewards (Frontend)
     url: https://rewards.tubnet.gg
   
   - name: TubNet Rewards (Backend)
-    url: https://reward.prd.svc.tubnet.io
+    url: https://reward.prd.svc.tubnet.io/
+    expectedStatusCodes:
+      - 500
   
   - name: TubNet Proxmox (EB)
     url: https://eb.clmgr.tubnet.io

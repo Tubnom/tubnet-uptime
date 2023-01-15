@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-15": 57,
+      "2023-01-15": 137,
       "2023-01-14": 856
     }
   },
@@ -151,19 +151,19 @@
     "url": "https://reward.prd.svc.tubnet.io/",
     "icon": "https://icons.duckduckgo.com/ip3/reward.prd.svc.tubnet.io.ico",
     "slug": "tub-net-rewards-backend",
-    "status": "down",
-    "uptime": "89.68%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "89.68%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "89.68%",
-    "time": 241,
-    "timeDay": 241,
-    "timeWeek": 241,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "82.57%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "82.57%",
+    "uptimeMonth": "82.57%",
+    "uptimeYear": "82.57%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-01-15": 57,
+      "2023-01-15": 137,
       "2023-01-14": 39
     }
   },

@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-14": 836
+      "2023-01-15": 57,
+      "2023-01-14": 856
     }
   },
   {
@@ -151,18 +152,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reward.prd.svc.tubnet.io.ico",
     "slug": "tub-net-rewards-backend",
     "status": "down",
-    "uptime": "97.74%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "97.74%",
+    "uptime": "89.68%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "89.68%",
     "time": 241,
     "timeDay": 241,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-01-14": 19
+      "2023-01-15": 57,
+      "2023-01-14": 39
     }
   },
   {

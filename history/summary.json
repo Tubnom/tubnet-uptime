@@ -22,19 +22,19 @@
     "url": "lunar.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-lunar",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 106,
-    "timeDay": 57,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 103,
+    "timeDay": 73,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-01-17": 2
+      "2023-01-17": 7
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "mc.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-mc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 89,
     "timeDay": 48,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-01-17": 0
+      "2023-01-17": 6
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 1044,
+      "2023-01-17": 1050,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 856
@@ -158,11 +158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/reward.prd.svc.tubnet.io.ico",
     "slug": "tub-net-rewards-backend",
     "status": "up",
-    "uptime": "96.32%",
+    "uptime": "96.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "96.32%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "96.33%",
     "time": 206,
     "timeDay": 124,
     "timeWeek": 206,

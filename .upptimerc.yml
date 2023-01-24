@@ -75,4 +75,6 @@ notifications:
       NOTIFICATION_DISCORD_WEBHOOK: true
       NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORD_WEBHOOK_URL
 
-
+commitMessages:
+  commitAuthorName: "PublicQualityAcc"
+  commitAuthorEmail: "123509954+PublicQualityAcc@users.noreply.github.com"

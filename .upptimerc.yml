@@ -53,9 +53,6 @@ sites:
     url: https://creg.tubnet.io
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   theme: dark
   baseUrl: /tubnet-uptime
   logoUrl: https://avatars.githubusercontent.com/u/102187236?s=200&v=4
@@ -69,6 +66,13 @@ status-website:
       href: https://forums.tubnet.gg/
     - title: Discord
       href: https://dsc.gg/apricotfarmer11
+      
+notifications:
+  strategy: roundrobin
+  providers:
+    discord:
+      NOTIFICATION_DISCORD: true
+      NOTIFICATION_DISCORD_WEBHOOK: true
+      NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORD_WEBHOOK_URL
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+

@@ -58,9 +58,9 @@
     "url": "mc.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-mc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 60,
     "timeMonth": 73,
     "timeYear": 83,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 0
+    }
   },
   {
     "name": "TubNet Events",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-events",
     "status": "down",
-    "uptime": "24.11%",
+    "uptime": "23.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "24.11%",
+    "uptimeYear": "23.91%",
     "time": 40,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-03-07": 61,
+      "2023-03-07": 696,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,

@@ -32,7 +32,7 @@ sites:
     expectedStatusCodes:
       - 403
     
-  - name: CDN (S3 Bucket)
+  - name: Content Delivery Network (S3 Bucket)
     url: https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip
     
   - name: TubNet Rewards (Frontend)
@@ -43,13 +43,13 @@ sites:
     expectedStatusCodes:
       - 500
   
-  - name: TubNet Proxmox (EB)
+  - name: TubNet Proxmox Virtualization (enough-bedbug)
     url: https://eb.clmgr.tubnet.io
     
-  - name: TubNet Proxmox (FS)
+  - name: TubNet Proxmox Virtualization (flying-shark)
     url: https://fs.clmgr.tubnet.io
     
-  - name: Creg (?)
+  - name: Grafana Loki
     url: https://creg.tubnet.io
 
 status-website:
@@ -69,11 +69,6 @@ status-website:
       
 notifications:
   strategy: roundrobin
-  providers:
-    discord:
-      NOTIFICATION_DISCORD: true
-      NOTIFICATION_DISCORD_WEBHOOK: true
-      NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORD_WEBHOOK_URL
 
 commitMessages:
   commitAuthorName: "PublicQualityAcc"

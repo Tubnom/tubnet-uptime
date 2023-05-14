@@ -54,7 +54,7 @@ sites:
 
 status-website:
   theme: dark
-  baseUrl: /tubnet-uptime
+  cname: status.tubnet.cc
   logoUrl: https://avatars.githubusercontent.com/u/102187236?s=200&v=4
   name: TubNet Community
   introTitle: "TubNet Status"
@@ -65,7 +65,7 @@ status-website:
     - title: Tubble
       href: https://forums.tubnet.gg/
     - title: Discord
-      href: https://dsc.gg/apricotfarmer11
+      href: https://dsc.gg/tubion
       
 notifications:
   strategy: roundrobin

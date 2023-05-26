@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-05-26": 996,
+      "2023-05-26": 1005,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -216,16 +216,16 @@
     "url": "https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
-    "status": "up",
-    "uptime": "91.32%",
-    "uptimeDay": "7.33%",
-    "uptimeWeek": "22.96%",
-    "uptimeMonth": "79.20%",
-    "uptimeYear": "91.32%",
+    "status": "down",
+    "uptime": "91.35%",
+    "uptimeDay": "7.90%",
+    "uptimeWeek": "23.04%",
+    "uptimeMonth": "79.26%",
+    "uptimeYear": "91.35%",
     "time": 195,
-    "timeDay": 217,
+    "timeDay": 218,
     "timeWeek": 203,
-    "timeMonth": 195,
+    "timeMonth": 196,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2023-05-26": 957,
@@ -237,7 +237,7 @@
       "2023-05-20": 864,
       "2023-05-19": 624,
       "2023-05-18": 624,
-      "2023-05-17": 292
+      "2023-05-17": 265
     }
   },
   {
@@ -288,7 +288,7 @@
     "uptime": "62.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.26%",
+    "uptimeMonth": "9.25%",
     "uptimeYear": "62.15%",
     "time": 521,
     "timeDay": 0,
@@ -296,7 +296,7 @@
     "timeMonth": 503,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-05-26": 997,
+      "2023-05-26": 1005,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,

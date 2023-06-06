@@ -1,7 +1,7 @@
 url: https://reward.prd.svc.tubnet.io/
-status: down
-code: 502
-responseTime: 284
-lastUpdated: 2023-06-06T19:38:16.734Z
+status: up
+code: 500
+responseTime: 56
+lastUpdated: 2023-06-06T19:46:17.856Z
 startTime: Sat Jan 14 2023 09:24:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

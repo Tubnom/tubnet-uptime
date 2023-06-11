@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-06-10": 1437,
+      "2023-06-11": 63,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -233,9 +234,9 @@
     "slug": "content-delivery-network-s3-bucket",
     "status": "up",
     "uptime": "81.98%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "75.69%",
-    "uptimeMonth": "47.74%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "76.42%",
+    "uptimeMonth": "47.72%",
     "uptimeYear": "81.98%",
     "time": 183,
     "timeDay": 147,
@@ -243,7 +244,7 @@
     "timeMonth": 182,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-06-10": 38,
+      "2023-06-10": 30,
       "2023-06-09": 32,
       "2023-06-08": 55,
       "2023-06-07": 32,
@@ -265,7 +266,7 @@
       "2023-05-21": 1167,
       "2023-05-20": 864,
       "2023-05-19": 624,
-      "2023-05-18": 359
+      "2023-05-18": 376
     }
   },
   {
@@ -314,18 +315,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eb.clmgr.tubnet.io.ico",
     "slug": "tub-net-proxmox-virtualization-enough-bedbug",
     "status": "down",
-    "uptime": "51.37%",
+    "uptime": "51.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.37%",
+    "uptimeYear": "51.34%",
     "time": 521,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-06-10": 1437,
+      "2023-06-11": 63,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,

@@ -6,9 +6,9 @@
     "slug": "tub-net-java-prod",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "50.30%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "48.66%",
+    "uptimeWeek": "92.67%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.81%",
     "time": 54,
     "timeDay": 67,
@@ -16,7 +16,7 @@
     "timeMonth": 56,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2023-10-07": 711,
+      "2023-10-07": 735,
       "2023-10-06": 5
     }
   },
@@ -27,9 +27,9 @@
     "slug": "tub-net-java-lunar",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "50.39%",
-    "uptimeWeek": "92.91%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "48.75%",
+    "uptimeWeek": "92.68%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.81%",
     "time": 84,
     "timeDay": 99,
@@ -37,7 +37,7 @@
     "timeMonth": 80,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2023-10-07": 711,
+      "2023-10-07": 735,
       "2023-10-06": 3
     }
   },
@@ -48,9 +48,9 @@
     "slug": "tub-net-java-thru",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "50.48%",
-    "uptimeWeek": "92.93%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "48.83%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.81%",
     "time": 71,
     "timeDay": 104,
@@ -58,7 +58,7 @@
     "timeMonth": 69,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-10-07": 711,
+      "2023-10-07": 735,
       "2023-10-06": 2
     }
   },
@@ -69,9 +69,9 @@
     "slug": "tub-net-java-mc",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "50.57%",
-    "uptimeWeek": "92.94%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "48.92%",
+    "uptimeWeek": "92.70%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.81%",
     "time": 65,
     "timeDay": 72,
@@ -79,7 +79,7 @@
     "timeMonth": 57,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2023-10-07": 711,
+      "2023-10-07": 735,
       "2023-10-06": 1
     }
   },
@@ -89,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-events",
     "status": "down",
-    "uptime": "12.27%",
+    "uptime": "12.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.27%",
+    "uptimeYear": "12.26%",
     "time": 40,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-10-07": 711,
+      "2023-10-07": 735,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -346,9 +346,9 @@
     "slug": "tub-net-forums",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "50.65%",
-    "uptimeWeek": "92.95%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "49.01%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.81%",
     "time": 86,
     "timeDay": 47,
@@ -356,7 +356,7 @@
     "timeMonth": 89,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-10-07": 711
+      "2023-10-07": 734
     }
   },
   {
@@ -364,12 +364,12 @@
     "url": "https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
-    "status": "up",
-    "uptime": "92.21%",
-    "uptimeDay": "71.42%",
-    "uptimeWeek": "95.92%",
+    "status": "down",
+    "uptime": "92.22%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "95.91%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "92.21%",
+    "uptimeYear": "92.22%",
     "time": 188,
     "timeDay": 212,
     "timeWeek": 194,
@@ -401,7 +401,7 @@
       "2023-05-21": 1167,
       "2023-05-20": 864,
       "2023-05-19": 624,
-      "2023-05-18": 80
+      "2023-05-18": 55
     }
   },
   {
@@ -410,18 +410,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rewards.tubnet.gg.ico",
     "slug": "tub-net-rewards-frontend",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "67.02%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "65.38%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.87%",
     "time": 205,
     "timeDay": 1551,
     "timeWeek": 981,
     "timeMonth": 479,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-10-07": 475
+      "2023-10-07": 498
     }
   },
   {
@@ -466,7 +466,7 @@
     "timeMonth": 248,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2023-10-07": 423,
+      "2023-10-07": 446,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,

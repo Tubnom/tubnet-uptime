@@ -6,9 +6,9 @@
     "slug": "tub-net-java-prod",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "60.38%",
-    "uptimeWeek": "94.34%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "59.82%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.85%",
     "time": 54,
     "timeDay": 67,
@@ -16,7 +16,7 @@
     "timeMonth": 56,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2023-10-07": 566,
+      "2023-10-07": 574,
       "2023-10-06": 5
     }
   },
@@ -27,9 +27,9 @@
     "slug": "tub-net-java-lunar",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "60.46%",
-    "uptimeWeek": "94.35%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "59.91%",
+    "uptimeWeek": "94.27%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.85%",
     "time": 84,
     "timeDay": 99,
@@ -37,7 +37,7 @@
     "timeMonth": 80,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2023-10-07": 566,
+      "2023-10-07": 574,
       "2023-10-06": 3
     }
   },
@@ -48,9 +48,9 @@
     "slug": "tub-net-java-thru",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "60.55%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "60.00%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.85%",
     "time": 71,
     "timeDay": 104,
@@ -58,7 +58,7 @@
     "timeMonth": 69,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-10-07": 566,
+      "2023-10-07": 574,
       "2023-10-06": 2
     }
   },
@@ -69,9 +69,9 @@
     "slug": "tub-net-java-mc",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "60.64%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "60.09%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "99.85%",
     "time": 65,
     "timeDay": 72,
@@ -79,7 +79,7 @@
     "timeMonth": 57,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2023-10-07": 566,
+      "2023-10-07": 574,
       "2023-10-06": 1
     }
   },
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-10-07": 566,
+      "2023-10-07": 574,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -346,9 +346,9 @@
     "slug": "tub-net-forums",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "60.73%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "60.17%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "99.85%",
     "time": 86,
     "timeDay": 47,
@@ -356,7 +356,7 @@
     "timeMonth": 89,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-10-07": 566
+      "2023-10-07": 574
     }
   },
   {
@@ -411,9 +411,9 @@
     "slug": "tub-net-rewards-frontend",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "74.55%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "74.00%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.90%",
     "time": 174,
     "timeDay": 790,
@@ -421,7 +421,7 @@
     "timeMonth": 256,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-10-07": 365
+      "2023-10-07": 373
     }
   },
   {
@@ -431,9 +431,9 @@
     "slug": "tub-net-rewards-backend",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "55.38%",
-    "uptimeWeek": "91.61%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "54.83%",
+    "uptimeWeek": "91.53%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "99.65%",
     "time": 233,
     "timeDay": 0,
@@ -441,7 +441,7 @@
     "timeMonth": 255,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-10-07": 566,
+      "2023-10-07": 574,
       "2023-10-06": 76,
       "2023-10-02": 203,
       "2023-06-07": 315,
@@ -466,7 +466,7 @@
     "timeMonth": 232,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2023-10-07": 326,
+      "2023-10-07": 334,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -636,18 +636,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fs.clmgr.tubnet.io.ico",
     "slug": "tub-net-proxmox-virtualization-flying-shark",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "68.07%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.84%",
+    "uptimeDay": "67.52%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.84%",
     "time": 439,
     "timeDay": 225,
     "timeWeek": 343,
     "timeMonth": 447,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2023-10-07": 383,
+      "2023-10-07": 391,
       "2023-10-06": 76
     }
   },
@@ -656,19 +656,19 @@
     "url": "https://creg.tubnet.io",
     "icon": "https://icons.duckduckgo.com/ip3/creg.tubnet.io.ico",
     "slug": "grafana-loki",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "64.11%",
-    "uptimeWeek": "94.87%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.83%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "63.59%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.82%",
     "time": 193,
-    "timeDay": 227,
-    "timeWeek": 182,
+    "timeDay": 213,
+    "timeWeek": 181,
     "timeMonth": 189,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-10-07": 441,
+      "2023-10-07": 449,
       "2023-10-06": 76
     }
   }

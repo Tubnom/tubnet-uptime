@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-01-30": 631,
+      "2024-01-30": 640,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -474,11 +474,11 @@
     "url": "https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "65.87%",
-    "uptimeWeek": "69.57%",
-    "uptimeMonth": "93.00%",
+    "uptimeDay": "65.75%",
+    "uptimeWeek": "69.70%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.34%",
     "time": 5553,
     "timeDay": 15542,
@@ -486,14 +486,14 @@
     "timeMonth": 11868,
     "timeYear": 5561,
     "dailyMinutesDown": {
-      "2024-01-30": 130,
+      "2024-01-30": 132,
       "2024-01-29": 558,
       "2024-01-28": 525,
       "2024-01-27": 333,
       "2024-01-26": 512,
       "2024-01-25": 378,
       "2024-01-24": 499,
-      "2024-01-23": 134
+      "2024-01-23": 119
     }
   },
   {
@@ -525,7 +525,7 @@
     "uptime": "97.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.73%",
+    "uptimeMonth": "66.71%",
     "uptimeYear": "96.98%",
     "time": 229,
     "timeDay": 147,
@@ -533,7 +533,7 @@
     "timeMonth": 186,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-01-30": 631,
+      "2024-01-30": 640,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -567,7 +567,7 @@
     "timeMonth": 0,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-01-30": 631,
+      "2024-01-30": 640,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -877,7 +877,7 @@
     "uptime": "96.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.73%",
+    "uptimeMonth": "66.71%",
     "uptimeYear": "96.74%",
     "time": 188,
     "timeDay": 0,
@@ -885,7 +885,7 @@
     "timeMonth": 169,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-01-30": 631,
+      "2024-01-30": 640,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,

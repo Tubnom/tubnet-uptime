@@ -101,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-02-04": 1435,
+      "2024-02-05": 4,
+      "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -445,8 +446,7 @@
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
-      "2023-02-06": 1440,
-      "2023-02-05": 1440
+      "2023-02-06": 1440
     }
   },
   {
@@ -474,24 +474,25 @@
     "url": "https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "46.64%",
-    "uptimeWeek": "66.68%",
-    "uptimeMonth": "92.33%",
+    "uptimeWeek": "66.91%",
+    "uptimeMonth": "92.38%",
     "uptimeYear": "99.29%",
     "time": 7692,
-    "timeDay": 15538,
+    "timeDay": 15541,
     "timeWeek": 15546,
     "timeMonth": 13322,
     "timeYear": 7701,
     "dailyMinutesDown": {
+      "2024-02-05": 2,
       "2024-02-04": 765,
       "2024-02-03": 680,
       "2024-02-02": 643,
       "2024-02-01": 472,
       "2024-01-31": 617,
-      "2024-01-30": 183
+      "2024-01-30": 159
     }
   },
   {
@@ -523,7 +524,7 @@
     "uptime": "95.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.46%",
+    "uptimeMonth": "48.44%",
     "uptimeYear": "95.46%",
     "time": 228,
     "timeDay": 160,
@@ -531,7 +532,8 @@
     "timeMonth": 173,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-02-04": 1436,
+      "2024-02-05": 4,
+      "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -570,7 +572,8 @@
     "timeMonth": 0,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-02-04": 1436,
+      "2024-02-05": 4,
+      "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -885,7 +888,7 @@
     "uptime": "95.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.46%",
+    "uptimeMonth": "48.44%",
     "uptimeYear": "95.09%",
     "time": 188,
     "timeDay": 0,
@@ -893,7 +896,8 @@
     "timeMonth": 180,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-02-04": 1436,
+      "2024-02-05": 4,
+      "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,

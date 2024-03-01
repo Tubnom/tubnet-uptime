@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-03-01": 1411,
+      "2024-03-01": 1420,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -474,23 +474,23 @@
     "url": "https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "31.05%",
-    "uptimeWeek": "57.03%",
-    "uptimeMonth": "90.11%",
-    "uptimeYear": "99.15%",
-    "time": 11631,
-    "timeDay": 15560,
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "31.56%",
+    "uptimeWeek": "57.82%",
+    "uptimeMonth": "90.29%",
+    "uptimeYear": "99.16%",
+    "time": 11632,
+    "timeDay": 15557,
     "timeWeek": 15559,
     "timeMonth": 15558,
-    "timeYear": 11637,
+    "timeYear": 11639,
     "dailyMinutesDown": {
-      "2024-03-01": 963,
+      "2024-03-01": 965,
       "2024-02-29": 929,
       "2024-02-28": 883,
       "2024-02-27": 920,
-      "2024-02-26": 638
+      "2024-02-26": 556
     }
   },
   {
@@ -530,7 +530,7 @@
     "timeMonth": 140,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-03-01": 1411,
+      "2024-03-01": 1420,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -595,7 +595,7 @@
     "timeMonth": 0,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-03-01": 1411,
+      "2024-03-01": 1420,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -944,7 +944,7 @@
     "timeMonth": 14962,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-03-01": 1411,
+      "2024-03-01": 1420,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,

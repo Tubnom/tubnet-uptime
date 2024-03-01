@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-03-01": 954,
+      "2024-03-01": 963,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -474,23 +474,23 @@
     "url": "https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "35.54%",
-    "uptimeWeek": "57.97%",
-    "uptimeMonth": "90.33%",
+    "uptimeDay": "35.41%",
+    "uptimeWeek": "58.10%",
+    "uptimeMonth": "90.36%",
     "uptimeYear": "99.17%",
-    "time": 11608,
-    "timeDay": 15567,
+    "time": 11609,
+    "timeDay": 15564,
     "timeWeek": 15559,
-    "timeMonth": 15559,
-    "timeYear": 11615,
+    "timeMonth": 15558,
+    "timeYear": 11616,
     "dailyMinutesDown": {
-      "2024-03-01": 662,
+      "2024-03-01": 664,
       "2024-02-29": 929,
       "2024-02-28": 883,
       "2024-02-27": 920,
-      "2024-02-26": 844
+      "2024-02-26": 828
     }
   },
   {
@@ -519,7 +519,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reward.prd.svc.tubnet.io.ico",
     "slug": "tub-net-rewards-backend",
     "status": "down",
-    "uptime": "89.73%",
+    "uptime": "89.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -530,7 +530,7 @@
     "timeMonth": 147,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-03-01": 954,
+      "2024-03-01": 963,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -595,7 +595,7 @@
     "timeMonth": 0,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-03-01": 954,
+      "2024-03-01": 963,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -944,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-03-01": 955,
+      "2024-03-01": 963,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,

@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-03-03": 533,
+      "2024-03-03": 542,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -474,24 +474,24 @@
     "url": "https://cdn.tubnet.gg/minecraft-resourcepack/TubPack-production.zip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "19.83%",
-    "uptimeWeek": "50.33%",
-    "uptimeMonth": "88.57%",
+    "uptimeDay": "20.30%",
+    "uptimeWeek": "50.48%",
+    "uptimeMonth": "88.60%",
     "uptimeYear": "99.02%",
-    "time": 11706,
-    "timeDay": 15519,
+    "time": 11707,
+    "timeDay": 15522,
     "timeWeek": 15558,
     "timeMonth": 15557,
-    "timeYear": 11713,
+    "timeYear": 11714,
     "dailyMinutesDown": {
-      "2024-03-03": 417,
+      "2024-03-03": 419,
       "2024-03-02": 1148,
       "2024-03-01": 985,
       "2024-02-29": 929,
       "2024-02-28": 883,
-      "2024-02-27": 645
+      "2024-02-27": 629
     }
   },
   {
@@ -520,7 +520,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reward.prd.svc.tubnet.io.ico",
     "slug": "tub-net-rewards-backend",
     "status": "down",
-    "uptime": "89.36%",
+    "uptime": "89.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -531,7 +531,7 @@
     "timeMonth": 135,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2024-03-03": 533,
+      "2024-03-03": 542,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -598,7 +598,7 @@
     "timeMonth": 0,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-03-03": 533,
+      "2024-03-03": 542,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -949,7 +949,7 @@
     "timeMonth": 14962,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-03-03": 533,
+      "2024-03-03": 542,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,

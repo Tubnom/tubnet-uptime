@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 9,
+    "timeDay": 2,
     "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 93,
+    "timeDay": 20,
     "timeWeek": 40,
     "timeMonth": 37,
     "timeYear": 39,
@@ -41,13 +41,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-thru",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 93,
+    "timeDay": 20,
     "timeWeek": 40,
     "timeMonth": 37,
     "timeYear": 40,
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 92,
+    "timeDay": 20,
     "timeWeek": 40,
     "timeMonth": 37,
     "timeYear": 39,
@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 65,
+      "2025-04-04": 64,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -451,8 +452,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   },
   {
@@ -467,9 +467,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 351,
-    "timeWeek": 209,
-    "timeMonth": 164,
+    "timeDay": 264,
+    "timeWeek": 235,
+    "timeMonth": 171,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -479,18 +479,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
     "status": "down",
-    "uptime": "47.21%",
+    "uptime": "47.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3511,
-    "timeDay": 171,
-    "timeWeek": 184,
-    "timeMonth": 175,
-    "timeYear": 147,
+    "time": 3481,
+    "timeDay": 269,
+    "timeWeek": 211,
+    "timeMonth": 181,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-04-03": 65,
+      "2025-04-04": 64,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -853,8 +854,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   },
   {
@@ -869,8 +869,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 193,
-    "timeDay": 346,
-    "timeWeek": 240,
+    "timeDay": 130,
+    "timeWeek": 242,
     "timeMonth": 251,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -883,18 +883,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reward.prd.svc.tubnet.io.ico",
     "slug": "tub-net-rewards-backend",
     "status": "down",
-    "uptime": "45.69%",
+    "uptime": "45.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 183,
-    "timeDay": 101,
-    "timeWeek": 149,
-    "timeMonth": 165,
+    "timeDay": 143,
+    "timeWeek": 144,
+    "timeMonth": 162,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-04-03": 65,
+      "2025-04-04": 64,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -1257,8 +1258,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   },
   {
@@ -1267,7 +1267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eb.clmgr.tubnet.io.ico",
     "slug": "tub-net-proxmox-virtualization-enough-bedbug",
     "status": "down",
-    "uptime": "6.07%",
+    "uptime": "6.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1278,7 +1278,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 65,
+      "2025-04-04": 64,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -1641,8 +1642,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   },
   {
@@ -1657,9 +1657,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 835,
-    "timeWeek": 551,
-    "timeMonth": 539,
+    "timeDay": 497,
+    "timeWeek": 566,
+    "timeMonth": 540,
     "timeYear": 595,
     "dailyMinutesDown": {}
   },
@@ -1669,18 +1669,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/creg.tubnet.io.ico",
     "slug": "grafana-loki",
     "status": "down",
-    "uptime": "41.48%",
+    "uptime": "41.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 158,
-    "timeDay": 217,
-    "timeWeek": 129,
-    "timeMonth": 155,
+    "timeDay": 76,
+    "timeWeek": 122,
+    "timeMonth": 149,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-04-03": 65,
+      "2025-04-04": 64,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -2043,8 +2044,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   }
 ]

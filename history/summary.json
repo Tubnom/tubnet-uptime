@@ -44,19 +44,19 @@
     "url": "thru.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-thru",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "74.20%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "73.38%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.91%",
     "time": 40,
-    "timeDay": 42,
-    "timeWeek": 43,
+    "timeDay": 44,
+    "timeWeek": 44,
     "timeMonth": 43,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2025-07-24": 371,
+      "2025-07-24": 383,
       "2025-07-01": 70,
       "2025-06-30": 23
     }
@@ -66,10 +66,10 @@
     "url": "mc.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-mc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "77.80%",
-    "uptimeWeek": "96.83%",
+    "uptimeDay": "77.70%",
+    "uptimeWeek": "96.81%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.92%",
     "time": 40,
@@ -78,7 +78,7 @@
     "timeMonth": 40,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2025-07-24": 319,
+      "2025-07-24": 320,
       "2025-07-01": 70,
       "2025-06-30": 21
     }
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 1402,
+      "2025-07-24": 1417,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 205,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-07-24": 1402,
+      "2025-07-24": 1417,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 202,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-07-24": 1402,
+      "2025-07-24": 1417,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 1402,
+      "2025-07-24": 1417,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1692,7 +1692,7 @@
     "timeMonth": 167,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-07-24": 1402,
+      "2025-07-24": 1417,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

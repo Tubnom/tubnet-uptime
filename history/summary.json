@@ -22,11 +22,11 @@
     "url": "lunar.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-lunar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "90.11%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "89.93%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.95%",
     "time": 40,
     "timeDay": 36,
@@ -34,7 +34,7 @@
     "timeMonth": 42,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2025-07-24": 142,
+      "2025-07-24": 145,
       "2025-07-01": 70,
       "2025-06-30": 24
     }
@@ -44,11 +44,11 @@
     "url": "thru.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-thru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
     "time": 40,
     "timeDay": 35,
@@ -56,7 +56,7 @@
     "timeMonth": 42,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2025-07-24": 132,
+      "2025-07-24": 133,
       "2025-07-01": 70,
       "2025-06-30": 23
     }
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 937,
+      "2025-07-24": 963,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 206,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-07-24": 937,
+      "2025-07-24": 963,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 196,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-07-24": 937,
+      "2025-07-24": 963,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 937,
+      "2025-07-24": 963,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1692,7 +1692,7 @@
     "timeMonth": 171,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-07-24": 937,
+      "2025-07-24": 963,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

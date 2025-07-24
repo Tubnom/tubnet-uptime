@@ -24,9 +24,9 @@
     "slug": "tub-net-java-lunar",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "79.09%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "78.62%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.92%",
     "time": 40,
     "timeDay": 41,
@@ -34,7 +34,7 @@
     "timeMonth": 42,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2025-07-24": 301,
+      "2025-07-24": 308,
       "2025-07-01": 70,
       "2025-06-30": 24
     }
@@ -46,9 +46,9 @@
     "slug": "tub-net-java-thru",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "79.91%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "79.44%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.93%",
     "time": 40,
     "timeDay": 42,
@@ -56,7 +56,7 @@
     "timeMonth": 43,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2025-07-24": 289,
+      "2025-07-24": 295,
       "2025-07-01": 70,
       "2025-06-30": 23
     }
@@ -66,19 +66,19 @@
     "url": "mc.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-mc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "80.21%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "79.84%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.93%",
     "time": 40,
-    "timeDay": 34,
-    "timeWeek": 40,
-    "timeMonth": 41,
+    "timeDay": 32,
+    "timeWeek": 39,
+    "timeMonth": 40,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2025-07-24": 284,
+      "2025-07-24": 290,
       "2025-07-01": 70,
       "2025-06-30": 21
     }
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 1317,
+      "2025-07-24": 1323,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 206,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-07-24": 1317,
+      "2025-07-24": 1323,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 196,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-07-24": 1317,
+      "2025-07-24": 1323,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 1317,
+      "2025-07-24": 1323,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1692,7 +1692,7 @@
     "timeMonth": 171,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-07-24": 1317,
+      "2025-07-24": 1324,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

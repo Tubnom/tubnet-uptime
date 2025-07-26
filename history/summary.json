@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
+    "timeDay": 2,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 4,
@@ -24,14 +24,14 @@
     "slug": "tub-net-java-lunar",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "75.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.51%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.92%",
     "time": 40,
-    "timeDay": 45,
-    "timeWeek": 46,
-    "timeMonth": 43,
+    "timeDay": 19,
+    "timeWeek": 42,
+    "timeMonth": 42,
     "timeYear": 39,
     "dailyMinutesDown": {
       "2025-07-24": 352,
@@ -46,14 +46,14 @@
     "slug": "tub-net-java-thru",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "74.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.34%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.91%",
     "time": 40,
-    "timeDay": 46,
-    "timeWeek": 46,
-    "timeMonth": 44,
+    "timeDay": 19,
+    "timeWeek": 44,
+    "timeMonth": 43,
     "timeYear": 40,
     "dailyMinutesDown": {
       "2025-07-24": 369,
@@ -68,14 +68,14 @@
     "slug": "tub-net-java-mc",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "77.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.83%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.92%",
     "time": 40,
-    "timeDay": 32,
-    "timeWeek": 39,
-    "timeMonth": 40,
+    "timeDay": 19,
+    "timeWeek": 34,
+    "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {
       "2025-07-24": 319,
@@ -89,7 +89,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-events",
     "status": "down",
-    "uptime": "3.54%",
+    "uptime": "3.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -100,7 +100,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 76,
+      "2025-07-26": 74,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -463,8 +464,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -479,9 +479,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 284,
-    "timeWeek": 174,
-    "timeMonth": 223,
+    "timeDay": 60,
+    "timeWeek": 164,
+    "timeMonth": 218,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -491,18 +491,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
     "status": "down",
-    "uptime": "41.03%",
+    "uptime": "40.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 152,
-    "timeDay": 161,
-    "timeWeek": 205,
-    "timeMonth": 205,
+    "timeDay": 168,
+    "timeWeek": 183,
+    "timeMonth": 202,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-07-25": 76,
+      "2025-07-26": 74,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -865,8 +866,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -881,10 +881,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 203,
-    "timeWeek": 195,
-    "timeMonth": 236,
-    "timeYear": 237,
+    "timeDay": 174,
+    "timeWeek": 194,
+    "timeMonth": 235,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -893,18 +893,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reward.prd.svc.tubnet.io.ico",
     "slug": "tub-net-rewards-backend",
     "status": "down",
-    "uptime": "40.09%",
+    "uptime": "40.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 185,
-    "timeDay": 258,
-    "timeWeek": 217,
-    "timeMonth": 202,
+    "timeDay": 76,
+    "timeWeek": 201,
+    "timeMonth": 201,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-07-25": 76,
+      "2025-07-26": 74,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -1267,8 +1268,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -1288,7 +1288,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 76,
+      "2025-07-26": 74,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -1651,8 +1652,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -1667,10 +1667,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 616,
-    "timeDay": 538,
-    "timeWeek": 548,
-    "timeMonth": 572,
-    "timeYear": 634,
+    "timeDay": 487,
+    "timeWeek": 529,
+    "timeMonth": 566,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2025-06-12": 107
     }
@@ -1681,18 +1681,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/creg.tubnet.io.ico",
     "slug": "grafana-loki",
     "status": "down",
-    "uptime": "36.05%",
+    "uptime": "36.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 126,
-    "timeDay": 107,
-    "timeWeek": 134,
-    "timeMonth": 167,
+    "timeDay": 152,
+    "timeWeek": 145,
+    "timeMonth": 169,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-07-25": 76,
+      "2025-07-26": 74,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -2055,8 +2056,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   }
 ]

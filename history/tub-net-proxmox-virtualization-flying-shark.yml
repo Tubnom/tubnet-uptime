@@ -1,7 +1,7 @@
 url: https://fs.clmgr.tubnet.io
-status: up
-code: 200
-responseTime: 634
-lastUpdated: 2025-11-18T11:55:45.562Z
+status: down
+code: 500
+responseTime: 52
+lastUpdated: 2025-11-18T12:28:08.941Z
 startTime: 2023-03-14T18:18:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>

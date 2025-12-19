@@ -4,10 +4,10 @@
     "url": "prod.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
@@ -15,17 +15,19 @@
     "timeWeek": 7,
     "timeMonth": 15,
     "timeYear": 6,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 2
+    }
   },
   {
     "name": "TubNet Java (lunar)",
     "url": "lunar.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-lunar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 36,
@@ -34,6 +36,7 @@
     "timeMonth": 11,
     "timeYear": 35,
     "dailyMinutesDown": {
+      "2025-12-19": 2,
       "2025-10-09": 42,
       "2025-10-06": 85,
       "2025-10-05": 17,
@@ -50,10 +53,10 @@
     "url": "thru.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-thru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 36,
@@ -62,6 +65,7 @@
     "timeMonth": 11,
     "timeYear": 35,
     "dailyMinutesDown": {
+      "2025-12-19": 2,
       "2025-10-09": 41,
       "2025-10-06": 91,
       "2025-10-05": 160,
@@ -78,10 +82,10 @@
     "url": "mc.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tub-net-java-mc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 35,
@@ -90,6 +94,7 @@
     "timeMonth": 11,
     "timeYear": 34,
     "dailyMinutesDown": {
+      "2025-12-19": 2,
       "2025-10-09": 40,
       "2025-10-06": 97,
       "2025-10-05": 66,
@@ -118,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-19": 74,
+      "2025-12-19": 291,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -490,9 +495,9 @@
     "url": "https://forums.tubnet.gg/",
     "icon": "https://icons.duckduckgo.com/ip3/forums.tubnet.gg.ico",
     "slug": "tub-net-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -501,7 +506,9 @@
     "timeWeek": 169,
     "timeMonth": 276,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 0
+    }
   },
   {
     "name": "Content Delivery Network (S3 Bucket)",
@@ -509,7 +516,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tubnet.gg.ico",
     "slug": "content-delivery-network-s3-bucket",
     "status": "down",
-    "uptime": "35.06%",
+    "uptime": "35.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -520,7 +527,7 @@
     "timeMonth": 204,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-12-19": 74,
+      "2025-12-19": 291,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -892,9 +899,9 @@
     "url": "https://rewards.tubnet.gg",
     "icon": "https://icons.duckduckgo.com/ip3/rewards.tubnet.gg.ico",
     "slug": "tub-net-rewards-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -904,6 +911,7 @@
     "timeMonth": 343,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2025-12-19": 0,
       "2025-11-18": 32
     }
   },
@@ -924,7 +932,7 @@
     "timeMonth": 195,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-12-19": 74,
+      "2025-12-19": 291,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -1308,7 +1316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-19": 74,
+      "2025-12-19": 291,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -1713,7 +1721,7 @@
     "timeMonth": 316,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-12-19": 74,
+      "2025-12-19": 291,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
